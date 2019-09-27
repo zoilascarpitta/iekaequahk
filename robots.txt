@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheejaiquo.mark-yoon.com/sitemap.xml
